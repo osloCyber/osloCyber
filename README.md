@@ -6,7 +6,7 @@ Cybersecurity student at Høyskolen Kristiania in Oslo, graduating in 2027. Befo
 
 - Offensive and defensive security: penetration testing, SIEM analysis, network and IoT security, GRC
 - A home lab where I run my own services, monitoring and intrusion detection
-- cyberos, a dashboard for the AI agents I run at home (private repo)
+- [cyberos](https://github.com/osloCyber/cyberos-template): a live dashboard for the AI agents I run at home, shared as a template anyone can copy
 - IT and management at ANBU, a music management company
 
 ## School projects
@@ -22,3 +22,4 @@ Norwegian, Spanish and English.
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/lyon-larrain)
+
